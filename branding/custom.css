@@ -1,0 +1,12 @@
+/* 1. Sembunyikan kalimat File Browser yang merupakan 'span' pertama */
+.credits > span:first-of-type {
+    display: none !important;
+
+}/* 2. Buat nama di atas tombol Help yang merupakan 'span' terakhir */
+.credits > span:last-of-type::before {
+    content: "Nama Anda";
+    display: block !important;
+    margin-bottom: 4px !important;
+    color: inherit; /* Mengikuti warna teks abu-abu bawaan secara otomatis */
+    pointer-events: none;
+}
