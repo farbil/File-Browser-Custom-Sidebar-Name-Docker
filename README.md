@@ -68,20 +68,20 @@ docker-compose down && docker-compose up -d
 2. Klik menu Settings.
 
 <p align="center">
-<img src="img/settings-menu.png" alt="Menu Settings pada antarmuka Filebrowser" width="250">
+<img src="img/settings-menu.png" alt="Menu Settings pada antarmuka Filebrowser" width="750">
 </p>
 
 3. Pilih menu Global Settings.
 
 <p align="center">
-<img src="img/global-settings.png" alt="Menu Global Settings pada antarmuka Filebrowser" width="250">
+<img src="img/global-settings.png" alt="Menu Global Settings pada antarmuka Filebrowser" width="750">
 </p>
 
 3. Gulir ke bawah hingga menemukan bagian Branding Directory Path.
 4. Isi kolom tersebut dengan: `/branding`
 
 <p align="center">
-<img src="img/branding-path.png" alt="Mengisi kolom Branding Directory Path dengan /branding" width="250">
+<img src="img/branding-path.png" alt="Mengisi kolom Branding Directory Path dengan /branding" width="750">
 </p>
 
 5. Klik tombol Update.
@@ -92,7 +92,7 @@ Langkah terakhir yang sangat penting. Peramban Anda mungkin masih menyimpan tamp
 - Mac: Tekan `Cmd + Shift + R`
 
 <p align="center">
-<img src="img/hasil-akhir.png" alt="Tampilan akhir sidebar Filebrowser dengan nama kustom" width="250">
+<img src="img/hasil-akhir.png" alt="Tampilan akhir sidebar Filebrowser dengan nama kustom" width="300">
 </p>
 
 Selesai! Teks "File Browser" di sidebar Anda sekarang sudah berubah menjadi nama kustom yang Anda atur. 🎉
